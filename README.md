@@ -183,8 +183,6 @@ streamlit run app.py
 
 ---
 
-## 🚀 Live Demo
-[Open Application]()
 
 ## 🔮 Future Improvements
 
